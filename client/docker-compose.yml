@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  app:
+    build: 
+      context: .
+    volumes:
+      - .:/client
+    ports:
+      - "3000:3000"
+    image: client:purchify-test
+    container_name: purchify_test_container
+    command: npm start
