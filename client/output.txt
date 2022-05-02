@@ -1,7 +1,0 @@
-REPOSITORY                      TAG       IMAGE ID       CREATED          SIZE
-dallenpyrah/purchify            latest    3a06dacf4740   2 minutes ago    434MB
-<none>                          <none>    a45aae968344   7 minutes ago    433MB
-<none>                          <none>    748d4529fa63   7 minutes ago    433MB
-dallenpyrah/docker101tutorial   latest    c57fe4e45000   34 minutes ago   28.8MB
-docker101tutorial               latest    c57fe4e45000   34 minutes ago   28.8MB
-alpine/git                      latest    1e98478423f7   7 days ago       38.2MB
